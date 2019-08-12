@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace IdleShutdown
 {
-    public partial class Form2 : Form
+    public partial class FrmWarning : Form
     {
-        public Form2()
+        public FrmWarning()
         {
             InitializeComponent();
         }

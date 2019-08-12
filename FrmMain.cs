@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace IdleShutdown
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : Form
     {
         [DllImport("user32.dll")]
         static extern bool GetCursorPos(ref Point lpPoint);
@@ -32,7 +32,7 @@ namespace IdleShutdown
 
 
 
-        public Form1()
+        public FrmMain()
         {
 
             InitializeComponent();
@@ -52,7 +52,7 @@ namespace IdleShutdown
 
 
             timeInSeconds = 0;
-            frm = new Form2();
+            frm = new FrmWarning();
             string textFile = AppDomain.CurrentDomain.BaseDirectory + @"Config.dump";
             string [] lines = File.ReadAllLines(textFile);
 

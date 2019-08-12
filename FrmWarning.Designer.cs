@@ -1,6 +1,6 @@
 ﻿namespace IdleShutdown
 {
-    partial class Form2
+    partial class FrmWarning
     {
         /// <summary>
         /// Required designer variable.
@@ -42,7 +42,7 @@
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // Form2
+            // FrmWarning
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -51,7 +51,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form2";
+            this.Name = "FrmWarning";
             this.Text = "Form2";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Form2_Load);
