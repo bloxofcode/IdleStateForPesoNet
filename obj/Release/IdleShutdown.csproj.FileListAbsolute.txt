@@ -1,0 +1,10 @@
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\bin\Release\IdleShutdown.exe.config
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\bin\Release\IdleShutdown.exe
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\bin\Release\IdleShutdown.pdb
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.Form1.resources
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.Form2.resources
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.Properties.Resources.resources
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.csproj.GenerateResource.Cache
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.exe
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.pdb
+C:\Users\BLOXOFCODE\documents\visual studio 2015\Projects\IdleShutdown\IdleShutdown\obj\Release\IdleShutdown.csprojResolveAssemblyReference.cache
